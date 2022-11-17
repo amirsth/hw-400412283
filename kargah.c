@@ -14,5 +14,6 @@ int main(){
     angle *=2;
     angle *=3;
     int rectangle;
+    rectangle=1;
     return 0;
 }
