@@ -9,5 +9,6 @@ int main(){
         printf("No");
     else
         printf("Yes");
+    int angle;
     return 0;
 }
