@@ -15,5 +15,6 @@ int main(){
     angle *=3;
     int rectangle;
     rectangle=1;
+    rectangle++;
     return 0;
 }
