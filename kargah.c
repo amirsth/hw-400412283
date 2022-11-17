@@ -11,5 +11,6 @@ int main(){
         printf("Yes");
     int angle;
     angle = 1;
+    angle *=2;
     return 0;
 }
