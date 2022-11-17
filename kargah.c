@@ -10,5 +10,6 @@ int main(){
     else
         printf("Yes");
     int angle;
+    angle = 1;
     return 0;
 }
