@@ -16,5 +16,6 @@ int main(){
     int rectangle;
     rectangle=1;
     rectangle++;
+    rectangle*=2;
     return 0;
 }
